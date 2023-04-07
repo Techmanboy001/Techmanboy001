@@ -4,9 +4,9 @@
 
 <img src="https://media.tenor.com/M072J6WpMXYAAAAC/test-light.gif" alt="TEST CODE" width="200" height="400" style="vertical-align:bottom-left">
 <img src="https://media.tenor.com/2nKSTDDekOgAAAAC/coding-kira.gif" alt="lets code" width="200" height="400" style="vertical-align:bottom-right">
+<img src="https://media.tenor.com/2nKSTDDekOgAAAAC/coding-kira.gif" alt="lets code" width="200" height="400" style="vertical-align:bottom">
+<img src="https://media.tenor.com/2nKSTDDekOgAAAAC/coding-kira.gif" alt="lets code" width="200" height="400" style="vertical-align:center">
 
-
-<img src="https://tenor.com/view/coding-kira-lena-urzendowsky-how-to-sell-drugs-online-fast-hacking-gif-17761682">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=okabo001&label=Profile%20views&color=0e75b6&style=flat" alt="okabo001" /> </p>
 
