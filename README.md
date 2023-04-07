@@ -2,10 +2,10 @@
 <h1 align="center">Hi 👋, I'm Alex Okabo</h1>
 <h3 align="center">A passionate frontend developer and android developer froma kenya</h3>
 
-<img src="https://media.tenor.com/M072J6WpMXYAAAAC/test-light.gif" alt="TEST CODE" width="300" height="400" style="vertical-align:bottom-left">
-<img src="https://media.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif" alt="lets code" width="300" height="400" style="vertical-align:bottom-right">
-<img src="https://media.tenor.com/cKgOapMuyWcAAAAC/coding-developer-code.gif" alt="lets code" width="300" height="400" style="vertical-align:bottom">
-<img src="https://media.tenor.com/2nKSTDDekOgAAAAC/coding-kira.gif" alt="lets code" width="300" height="400" style="vertical-align:center">
+<img src="https://media.tenor.com/M072J6WpMXYAAAAC/test-light.gif" alt="TEST CODE" width="300" height="400" style="horizontal-align:bottom-left">
+<img src="https://media.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif" alt="lets code" width="300" height="400" style="horizontal-align:bottom-right">
+<img src="https://media.tenor.com/cKgOapMuyWcAAAAC/coding-developer-code.gif" alt="lets code" width="300" height="400" style="horizontal-align:bottom">
+<img src="https://media.tenor.com/2nKSTDDekOgAAAAC/coding-kira.gif" alt="lets code" width="300" height="400" style="horizontal-align:center">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=okabo001&label=Profile%20views&color=0e75b6&style=flat" alt="okabo001" /> </p>
